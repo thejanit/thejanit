@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Janit Srivastava, a undergraduate Computer Science Student from India.
+- 👋 Hi, I’m Janit Srivastava, a professional Python Django Developer from India.
 - 👀 I’m interested in Technology, latest technologies gives me kick to make, learn something.
-- 🌱 I’m currently learning Web Development(Django etc.) and Machine Learning and Data Science.
-- 💞️ I’m looking to collaborate on Web Development(Flask, Django), Machine Learning(Scikit Learn and other Libraries) projects.
-- 📫 How to reach me in many ways - Check-in Bio..
+- 🌱 I’m currently working in established Startup which makes Chatbot, LiveChat for almost All platforms (Web, WhatsApp, GBM, etc).
+- 💞️ I’m looking open to collaborate for Django and Machine Learning projects.
+- 📫 Reach out to me through LinkedIN and Twitter, details in BIO.
 
 <!---
 thejanit/thejanit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
